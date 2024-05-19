@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Ilhan</h1>
 <h3 align="center">I'm currently learning computer science. I also interested to the low level languages. ☺️</h3>
 
-- 🌱 I’m currently learning **C, Python, C++ and Assembly language.**
+- 🌱 I’m currently learning **C, Python, C++, Java and Assembly language.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
