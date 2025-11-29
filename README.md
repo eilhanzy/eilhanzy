@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Ilhan</h1>
-<h3 align="center">I'm currently learning computer science./h3>
+<h3 align="center">I'm currently learning computer science. </h3>
 
 - 🌱 I’m currently learning **Rust and Python**
 - 🔭 I’m currently working on **neonix linux**
